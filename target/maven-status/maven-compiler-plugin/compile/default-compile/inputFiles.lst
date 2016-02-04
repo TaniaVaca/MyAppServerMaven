@@ -1,0 +1,17 @@
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/persistence/dao/UserDao.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/exceptions/CoreException.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/business/entities/TarjetaCreditoEntity.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/util/JsonDateSerializer.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/persistence/base/BaseDao.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/business/entities/UserEntity.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/utils/properties/ConfigProperties.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/utils/properties/PropertiesFile.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/utils/logger/Log.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/business/service/TarjetaCreditoService.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/business/base/BaseEntity.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/exceptions/ApplicationException.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/business/service/UserService.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/exceptions/InfraestructureException.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/exceptions/JPAException.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/utils/logger/DatedFileAppender.java
+/Users/Alexandra/MyAppServerMaven/src/main/java/com/mycompany/myappserver/persistence/dao/TarjetaCreditoDao.java
